@@ -1,81 +1,70 @@
+Here's the updated README file with your YouTube video link included:
 
-
+```markdown
 # Weather App
 
-This project is a simple weather app built with React. It allows users to enter a city and get the current weather information. 
+This project is a simple weather app built with React. It allows users to enter a city and get the current weather information.
+
 ## Features
 
-- **Current Weather:** Enter a city to get the current weather information, including temperature, humidity, wind speed, and weather conditions.
-- **User-Friendly Interface:** Displays weather data clearly with icons representing different weather conditions.
+- **Current Weather**: Enter a city to get the current weather information, including temperature, humidity, wind speed, and weather conditions.
+- **User-Friendly Interface**: Displays weather data clearly with icons representing different weather conditions.
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14 or later)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
+- **Node.js** (v14 or later)
+- **npm** (comes with Node.js)
 
 ### Installation
 
-1. **Clone the repository:**
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/disha2989/weather-app.git
-   cd weather-app
-   ```
+```bash
+git clone https://github.com/disha2989/weather-app.git
+cd weather-app
+```
 
-2. **Install dependencies:**
+Install dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
-3. **Create a `.env` file in the root directory:**
+Create a `.env` file in the root directory:
 
-   Add your OpenWeatherMap API key:
+Add your OpenWeatherMap API key:
 
-   ```env
-   REACT_APP_WEATHER_API_KEY=your_api_key_here
-   ```
+```
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+```
 
-4. **Run the app:**
+Run the app:
 
-   ```bash
-   npm start
-   ```
+```bash
+npm start
+```
 
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Usage
+## Usage
 
 - Enter a city name in the search bar to get the current weather.
 
 ## Additional Information
 
-- **Icons:** Weather icons are used to visually represent weather conditions (e.g., sunny, rainy, cloudy).
-- **Info Button:** Click the "Info" button to view information about the PM Accelerator.
+- **Icons**: Weather icons are used to visually represent weather conditions (e.g., sunny, rainy, cloudy).
+- **Info Button**: Click the "Info" button to view information about the PM Accelerator.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm test`
-
-Launches the test runner in interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-Optimizes the build for best performance.
-
-### `npm run eject`
-
-Ejects the app, providing full control over the configuration. **(Use with caution!)**
+- `npm start`: Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- `npm test`: Launches the test runner in interactive watch mode.
+- `npm run build`: Builds the app for production to the build folder. Optimizes the build for best performance.
+- `npm run eject`: Ejects the app, providing full control over the configuration. (Use with caution!)
 
 ## Technologies Used
 
@@ -85,12 +74,16 @@ Ejects the app, providing full control over the configuration. **(Use with cauti
 
 ## API Used
 
-- [OpenWeatherMap API](https://openweathermap.org/api) for fetching current weather and forecast data.
+- **OpenWeatherMap API** for fetching current weather and forecast data.
 
 ## Demo
 
-Include a short demo video (1-2 minutes) showcasing the app's functionality. You can use screen recording software to capture the demo.
+[![Watch the video](https://img.youtube.com/vi/0W6-lz0Zma0/0.jpg)](https://youtu.be/0W6-lz0Zma0)
+
+Click the image above to watch the demo video!
 
 ## Contact
 
-For any questions or feedback, please reach out to [Disha Narayan](mailto:disha14062001@gmail.com).
+For any questions or feedback, please reach out to **Disha Narayan**.
+```
+
