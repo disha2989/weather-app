@@ -1,6 +1,4 @@
-Here's the updated README file with your YouTube video link included:
 
-```markdown
 # Weather App
 
 This project is a simple weather app built with React. It allows users to enter a city and get the current weather information.
@@ -85,5 +83,3 @@ Click the image above to watch the demo video!
 ## Contact
 
 For any questions or feedback, please reach out to **Disha Narayan**.
-```
-
