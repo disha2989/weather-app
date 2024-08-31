@@ -94,7 +94,3 @@ Include a short demo video (1-2 minutes) showcasing the app's functionality. You
 ## Contact
 
 For any questions or feedback, please reach out to [Disha Narayan](mailto:disha14062001@gmail.com).
-
----
-
-Feel free to replace placeholders (like `your_api_key_here`, `your-username`, and `your-email@example.com`) with your actual details. This version of the `README.md` should provide clear instructions and details about your weather app.
